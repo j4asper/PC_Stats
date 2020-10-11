@@ -3,3 +3,6 @@
 
 **How to use:**
 You just run the "PC Stats.exe" file, and the program should run. You can close it by going to your system tray, rightclick, and then Exit.
+
+**Download**
+Click [**HERE**](https://github.com/j4asper/PC_Stats/releases) to see all the releases!
