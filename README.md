@@ -6,3 +6,5 @@ You just run the "PC Stats.exe" file, and the program should run. You can close 
 
 ## Download:  
 Click [**HERE**](https://github.com/j4asper/PC_Stats/releases) to see all the releases!
+
+![Image example](https://github.com/j4asper/PC_Stats/blob/main/example.PNG)
